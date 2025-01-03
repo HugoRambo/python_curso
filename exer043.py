@@ -6,7 +6,7 @@
     # 30 até 40: Obesidade
     # Acima de 40: Obesidade Mórbida
 print('Vamos calcula seu IMC')
-altura = float(input('Digite sua altura :'))
+altura = float(input('Digite sua altura :')) S80tl9FFaE
 peso = float(input('Digite seu peso : '))
 calculo = peso / (altura * altura)
 if calculo <= 18.5:
